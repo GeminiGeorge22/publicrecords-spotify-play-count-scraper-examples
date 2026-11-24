@@ -1,7 +1,6 @@
-# Spotify Play Count Scraper — ejemplos
+**READMEs:** [English](README.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-spotify-play-count-scraper-examples/blob/main/notebooks/quickstart.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-spotify-play-count-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+# Spotify Play Count Scraper — ejemplos
 
 Reproducciones de cada pista en un enlace de Spotify (tema, álbum, artista o lista), más oyentes mensuales.
 
@@ -25,4 +24,3 @@ python3 examples/python/run.py
 
 Hay ejemplos en Python, JavaScript y curl en `examples/`. Autor: Public Records. Licencia: MIT. Este repositorio no usa GitHub Actions.
 
-READMEs: [English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Português](README.pt.md)
